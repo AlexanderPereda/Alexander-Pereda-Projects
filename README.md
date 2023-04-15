@@ -7,4 +7,4 @@ Summary of the data science projects that we have been working on.
 * EDA was performed on the dataset looking for which variables have the greatest impact on the classification.
 * We train a basic model and then optimize it step by step to see how the right choice of parameters can influence the final algorithm.
 * We use EDA, GridSearchCV and  Support Vector Classifier to obtain the best model.
-[](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/phones.jpg)
+![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/phones.jpg)
