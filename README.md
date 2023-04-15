@@ -19,7 +19,7 @@ Summary of the data science projects that we have been working on.
 * We studied the correlation of the variables in the dataset.
 * We fill in the missing data using a simple imputer with the median method.
 
-![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/pca.png)
+    ![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/pca.png)
 
 
 ## [Project 3 : PROBABILITY OF SUFFERING A STROKE USING RANDOM FOREST](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Probability%20of%20suffering%20a%20stroke%20using%20Random%20Forest.ipynb)
@@ -31,4 +31,4 @@ Summary of the data science projects that we have been working on.
 * We instantiate the model and then optimize it.
 * Finally, we sort the results into a DataFrame so that it can be exported and used.
 
-![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/stroke.jpg)
+    ![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/stroke.jpg)
