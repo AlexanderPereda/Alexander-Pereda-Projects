@@ -1,4 +1,4 @@
-# Alexander Pereda Portfolio
+# [Alexander Pereda Portfolio](https://alexanderpereda.github.io/)
 Summary of the data science projects that we have been working on
 
 # [Project 1 : CLASSIFICATION OF CELL PHONES ACCORDING TO PRICE](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Cell%20phone%20price%20ranking%20with%20SVM.ipynb)
