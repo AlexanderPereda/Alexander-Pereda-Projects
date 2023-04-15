@@ -22,7 +22,7 @@ Summary of the data science projects that we have been working on.
 ![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/pca.png)
 
 
-## [Project 3 : Probability of suffering a stroke using Random Forest](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Probability%20of%20suffering%20a%20stroke%20using%20Random%20Forest.ipynb)
+## [Project 3 : PROBABILITY OF SUFFERING A STROKE USING RANDOM FOREST](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Probability%20of%20suffering%20a%20stroke%20using%20Random%20Forest.ipynb)
 
 * An algorithm was developed that can predict the likelihood of a stroke.
 * We explore the data looking for relationships between variables, while transforming them for later use.
