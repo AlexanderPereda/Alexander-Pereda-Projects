@@ -9,4 +9,4 @@ Summary of the data science projects that we have been working on.
 * We use EDA, GridSearchCV and  Support Vector Classifier to obtain the best model.
 
 
-![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/phones.jpg)
+    ![](https://github.com/AlexanderPereda/AlexanderPereda.github.io/blob/main/images/phones.jpg)
