@@ -1,5 +1,8 @@
 # [Alexander Pereda Portfolio](https://alexanderpereda.github.io/)
-Summary of the data science projects that we have been working on. You are free to clone the repo and use it.
+This Portfolio is a compilation of all the Data Science projects I have done for academic, self-learning and hobby purposes.
+
+* Email : alexanderperedaescalante@gmail.com
+* Linkedin : https://www.linkedin.com/in/axel-alexander-pereda-escalante/ 
 
 ## [Project 1 : CLASSIFICATION OF CELL PHONES ACCORDING TO PRICE](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Cell%20phone%20price%20ranking%20with%20SVM.ipynb)
 
